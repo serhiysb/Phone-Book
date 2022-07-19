@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    int n = 10;
     char name[25];
     int num1, num2, num3;
     int n = 1;
